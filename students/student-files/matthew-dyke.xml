@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+  <name>Matt Dyke</name>
+  <picture>matthew-dyke.jpg</picture>
+  <degrees>
+    <degree>B.S. Computer Science</degree>
+    <degree>B.S. Applied and Computational Mathematics</degree>
+  </degrees>
+  <gradDate>May 2017</gradDate>
+  <contactInfo>
+    <schoolEmail>matthew.dyke@mines.sdsmt.edu</schoolEmail>
+    <personalEmail>test@example.com</personalEmail>
+    <phoneNum>555-5555</phoneNum>
+  </contactInfo>
+  <coursesList>
+    <course>CSC 447 - Artificial Intelligence</course>
+    <course>CSC 468 - Graphical User Interfaces Programming</course>
+    <course>CSC 470 - Software Engineering</course>
+  </coursesList>
+  <interestArea>Artificial Intelligence</interestArea>
+  <studentWebsite>http://dev.mcs.sdsmt.edu/~7025592/</studentWebsite>
+  <LinkedIn>https://www.linkedin.com/in/matthewdyke</LinkedIn>
+  <GitHub>https://github.com/madyke</GitHub>
+  <KnewRecruit>https://beta.knewrecruit.com/s/Matt</KnewRecruit>
+</student>

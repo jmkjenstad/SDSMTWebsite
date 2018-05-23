@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alumni>
+  <name>John Doe</name>
+  <picture/>
+  <degrees>
+    <degree>B.S., South Dakota School of Mines and Technology</degree>
+    <degree>M.S., Massachusetts Institute of Technology</degree>
+    <degree>Ph.D., Massachusetts Institute of Technology</degree>
+  </degrees>
+  <contactInfo>
+    <companyEmail>john.doe@example.edu</companyEmail>
+    <personalEmail>john.doe@example.com</personalEmail>
+    <phoneNum>555-5555</phoneNum>
+  </contactInfo>
+  <companyList>
+    <company>Google</company>
+    <company>IBM</company>
+    <company>Microsoft</company>
+  </companyList>
+  <specialtyArea>Web Programming</specialtyArea>
+  <LinkedIn>https://www.linkedin.com/in/matthewdyke</LinkedIn>
+  <GitHub>https://github.com/madyke</GitHub>
+</alumni>

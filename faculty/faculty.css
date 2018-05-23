@@ -1,0 +1,86 @@
+div#fixedheader {
+    position:fixed;
+    top:0px;
+    left:0px;
+    width:100%;
+    color:#c1a868;
+    background:#011c4f;
+    padding:20px;
+}
+
+div#facultyContent {
+    margin-top:68px;
+    margin-bottom:24px;
+    margin-left:auto;
+    margin-right:auto;
+    width:24cm;
+    padding:8px;
+    background:#E6E6E5;
+}
+
+div#personalInfo {
+    margin-top:-10px;
+    margin-left:15px;
+    width:100%;
+    padding:8px;
+}
+
+div#coursesInfo {
+    margin-top:-10px;
+    padding:8px;
+}
+
+div#externalLinks{
+    margin-top:-10px;
+    padding:8px;
+}
+
+div#fixedfooter {
+    position:fixed;
+    bottom:0px;
+    left:0px;
+    width:100%;
+    color:#c1a868;
+    background:#011c4f;
+    padding:8px;
+}
+
+hr.picture { 
+    display: block;
+    margin-left:0;
+    margin-right:200px;
+    border-style:inset;
+    border-width:1px;
+}
+
+img.faculty{
+    float:right;
+    margin-right:20px;
+    width:162px;
+    height:243px;
+}
+
+span.emphasize {
+    color:black;
+    font-weight:bold;
+}
+
+h1.facultyName {
+    margin-left:5px;
+}
+
+p.subSection {
+    margin-bottom:0;
+    font-weight:bold;
+    color:#011c4f;
+}
+
+p.course {
+    margin-top:0;
+    margin-bottom:0;
+    margin-left:15px;
+}
+
+a.link {
+    margin-left:15px;
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+  <name>Jayson Kjenstad</name>
+  <picture>jayson-kjenstad.jpg</picture>
+  <degrees>
+    <degree>B.S. Computer Science</degree>
+  </degrees>
+  <gradDate>May 2017</gradDate>
+  <contactInfo>
+    <schoolEmail>jayson.kjenstad@mines.sdsmt.edu</schoolEmail>
+    <personalEmail>jaydawgkj@gmail.com</personalEmail>
+    <phoneNum>253-678-6348</phoneNum>
+  </contactInfo>
+  <coursesList>
+    <course>CSC 150 - Computer Programming I</course>
+    <course>CSC 250 - Computer Programming II</course>
+    <course>CSC 300 - Data Structures</course>
+    <course>CSC 372 - Analysis of Algorithms</course>
+    <course>CSC 456 - Operating Systems</course>
+    <course>CSC 4XX - Computer Vision</course>
+    <course>CSC 468 - Graphical User Interfaces Programming</course>
+    <course>CSC 470 - Software Engineering</course>
+  </coursesList>
+  <interestArea>Mobile Applications</interestArea>
+  <studentWebsite>http://dev.mcs.sdsmt.edu/~7142885/</studentWebsite>
+  <LinkedIn/>
+  <GitHub>https://github.com/jaydawgkj</GitHub>
+  <KnewRecruit/>
+</student>

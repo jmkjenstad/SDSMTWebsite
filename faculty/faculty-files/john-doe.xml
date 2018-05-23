@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faculty>
+  <name>Dr. John Doe</name>
+  <picture/>
+  <degrees>
+    <degree>B.S., South Dakota School of Mines and Technology</degree>
+    <degree>M.S., Massachusetts Institute of Technology</degree>
+    <degree>Ph.D., Massachusetts Institute of Technology</degree>
+  </degrees>
+  <contactInfo>
+    <schoolEmail>john.doe@example.edu</schoolEmail>
+    <personalEmail>john.doe@example.com</personalEmail>
+    <phoneNum>555-5555</phoneNum>
+  </contactInfo>
+  <coursesList>
+    <course>CSC 150 - Computer Programming I</course>
+    <course>CSC 250 - Computer Programming II</course>
+    <course>CSC 300 - Data Structures</course>
+    <course>CSC 372 - Analysis of Algorithms</course>
+  </coursesList>
+  <researchArea>Web Programming</researchArea>
+  <LinkedIn>https://www.linkedin.com/in/matthewdyke</LinkedIn>
+  <GitHub>https://github.com/madyke</GitHub>
+</faculty>

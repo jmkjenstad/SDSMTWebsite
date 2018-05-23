@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+  <name>John Doe</name>
+  <picture/>
+  <degrees>
+    <degree>B.S. Computer Science</degree>
+    <degree>B.S. Applied and Computational Mathematics</degree>
+    <degree>B.S. Computer Engineering</degree>
+  </degrees>
+  <gradDate>May 2018</gradDate>
+  <contactInfo>
+    <schoolEmail>john.doe@example.edu</schoolEmail>
+    <personalEmail>john.doe@example.com</personalEmail>
+    <phoneNum>555-5555</phoneNum>
+  </contactInfo>
+  <coursesList>
+    <course>CSC 150 - Computer Programming I</course>
+    <course>CSC 250 - Computer Programming II</course>
+    <course>CSC 300 - Data Structures</course>
+    <course>CSC 372 - Analysis of Algorithms</course>
+    <course>CSC 447 - Artificial Intelligence</course>
+    <course>CSC 468 - Graphical User Interfaces Programming</course>
+    <course>CSC 470 - Software Engineering</course>
+  </coursesList>
+  <interestArea>Web Programming</interestArea>
+  <studentWebsite>http://dev.mcs.sdsmt.edu/~7025592/</studentWebsite>
+  <LinkedIn>https://www.linkedin.com/in/matthewdyke</LinkedIn>
+  <GitHub>https://github.com/madyke</GitHub>
+  <KnewRecruit>https://beta.knewrecruit.com/s/Matt</KnewRecruit>
+</student>

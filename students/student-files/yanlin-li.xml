@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+  <name>Yanlin Li</name>
+  <picture>yanlin-li.jpg</picture>
+  <degrees>
+    <degree>B.S. Computer Science</degree>
+  </degrees>
+  <gradDate>May 2017</gradDate>
+  <contactInfo>
+    <schoolEmail>yanlin.li@mines.sdsmt.edu</schoolEmail>
+    <personalEmail>yanlinli0016@gmail.com</personalEmail>
+    <phoneNum>6058385760</phoneNum>
+  </contactInfo>
+  <coursesList>
+    <course>CSC 445 - Theory of Computation</course>
+    <course>CSC 468 - Graphical User Interfaces Programming</course>
+    <course>CSC 470 - Software Engineering</course>
+  </coursesList>
+  <interestArea>Data Analysis</interestArea>
+  <studentWebsite>http://dev.mcs.sdsmt.edu/~7025592/</studentWebsite>
+  <LinkedIn/>
+  <GitHub/>
+  <KnewRecruit/>
+</student>
